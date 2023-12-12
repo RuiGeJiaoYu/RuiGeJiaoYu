@@ -10,6 +10,7 @@
 - 移民规划
   我们的移民服务旨在提供最优质、专业的移民咨询服务。专业的移民顾问团队可以为您一对一的分析和定制化的移民方案。
 
+![alt text](https://github.com/RuiGeJiaoYu/RuiGeJiaoYu/blob/main/iShot_2023-12-11_17.14.45.png?raw=true)
 
 <!---
 RuiGeJiaoYu/RuiGeJiaoYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
